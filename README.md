@@ -11,6 +11,16 @@ We choose a fiction society woking for women safety and implemented features for
 * JQuery
 * Wordpress
 
+## Images of Swarksha
+  <p align="center">
+ <img src="https://github.com/zabhitak/IIT-Bomay-Swarksha/tree/master/Screenshots/Device1.JPG" align="center" alt=""/>
+</p>
+
+  <p align="center">
+ <img src="https://github.com/zabhitak/IIT-Bomay-Swarksha/tree/master/Screenshots/Capture3.PNG" align="center" alt=""/>
+</p>
+
+
 
 # Cool Features
 * Random Images Gallery
