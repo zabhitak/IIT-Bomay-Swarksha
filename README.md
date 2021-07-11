@@ -11,8 +11,6 @@ We choose a fiction society woking for women safety and implemented features for
 * JQuery
 * Wordpress
 
-# Website Link
-* https://hrithikkothari1234.github.io/Glozzom/index.html
 
 # Cool Features
 * Random Images Gallery
